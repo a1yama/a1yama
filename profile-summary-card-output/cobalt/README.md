@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/a1yama/a1yama/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)
-```
-
-    
